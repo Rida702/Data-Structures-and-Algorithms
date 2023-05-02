@@ -1,0 +1,30 @@
+size = 7
+
+insertion
+
+umair
+afnan
+umair
+junaid
+umair
+afnan
+hassan
+
+output
+
+umair
+afnan
+hassan
+umair
+umair
+afnan
+junaid
+
+Delete umair   (and check the output)
+umair
+afnan
+hassan
+EMPTY
+umair
+afnan
+junaid
